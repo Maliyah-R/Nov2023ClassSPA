@@ -13,7 +13,7 @@ export default () => html`
       arcu sit amet dignissim. Pellentesque ut mi nulla.
     </p>
     <p>
-      Quisque at hendrerit libero, eget interdum lectus. Etiam facilisis leo
+      Quisque at hendrerit Libero, eget interdum lectus. Etiam facilisis leo
       nulla, sit amet imperdiet nunc molestie vel. Orci varius natoque penatibus
       et magnis dis parturient montes, nascetur ridiculus mus. Curabitur
       consectetur felis a purus volutpat, sed finibus magna iaculis.
